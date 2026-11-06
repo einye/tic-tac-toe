@@ -1,6 +1,6 @@
 # Tic Tac Toe (Minimax AI)
 
-A classic Tic Tac Toe game with a graphical interface built using Python's standard **Tkinter** library. You play as **X** against an AI opponent (**O**) that uses the **Minimax algorithm** meaning it plays perfectly and can never be beaten :( The best you can do is draw lol.
+A classic Tic Tac Toe game with a graphical interface built using Python's standard **Tkinter** library. You play as **X** against an AI opponent (**O**) that uses the **Minimax algorithm**.
 
 ![Screenshot](Screenshot.png)  
 <!-- Replace with a real screenshot of the game -->
@@ -8,10 +8,9 @@ A classic Tic Tac Toe game with a graphical interface built using Python's stand
 ## Features
 
 - Clean, simple GUI with Tkinter, no external libraries required
-- Unbeatable AI opponent using the Minimax algorithm
+- AI opponent using the Minimax algorithm
 - Live scoreboard tracking Human (X) wins vs AI (O) wins
 - Automatic board reset after each round
-- Instant win/draw detection with popup messages
 
 ## Requirements
 
